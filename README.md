@@ -26,11 +26,11 @@ Welcome to the **Gen AI Analytics Dashboard Prototype!** 🎉 This project is de
 ### 🔧 Installation & Setup
 1️⃣ **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/gen-ai-dashboard.git
+   git clone [https://github.com/your-username/gen-ai-dashboard.git](https://github.com/Sakshamebdev873/Gen-Ai.git)
    ```
 2️⃣ **Navigate to the project folder:**  
    ```sh
-   cd gen-ai-dashboard
+   cd Gen-Ai
    ```
 3️⃣ **Install dependencies:**  
    ```sh
@@ -40,7 +40,7 @@ Welcome to the **Gen AI Analytics Dashboard Prototype!** 🎉 This project is de
    ```sh
    npm start
    ```
-5️⃣ **Open your browser & enjoy:** `http://localhost:3000`
+5️⃣ **Open your browser & enjoy:** `http://localhost:5173`
 
 ---
 
@@ -76,7 +76,7 @@ Welcome to the **Gen AI Analytics Dashboard Prototype!** 🎉 This project is de
    - **Netlify:** Push to GitHub & link repo in Netlify
 
 ### 🌎 Live Links
-🔗 **GitHub Repository:** [Your Repository URL]  
+🔗 **GitHub Repository:** (https://github.com/Sakshamebdev873/Gen-Ai.git)  
 🔗 **Live Demo:** [Deployment URL]  
 
 ---
@@ -102,6 +102,6 @@ This project is a **glimpse into the power of AI-driven analytics** 🚀. It ena
 
 ---
 
-👨‍💻 **Developed by:** [Your Name]  
-📧 **Contact:** [Your Email]  
+👨‍💻 **Developed by:** Saksham Arya  
+📧 **Contact:** vinodarya344@gmail.com 
 
