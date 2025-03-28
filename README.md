@@ -48,10 +48,9 @@ Welcome to the **Gen AI Analytics Dashboard Prototype!** 🎉 This project is de
 ```
 📂 src
 │── 📂 components   # UI Components
-│── 📂 redux        # Redux store, reducers, actions
-│── 📂 assets       # Static assets (if any)
-│── 📜 App.js       # Main app component
-│── 📜 index.js     # Entry point
+│── 📂 store        # Redux store, reducers, actions
+│── 📜 App.jsx       # Main app component
+│── 📜 main.jsx     # Entry point
 📂 public           # Static files
 📜 package.json     # Project metadata & dependencies
 📜 README.md        # Project documentation
