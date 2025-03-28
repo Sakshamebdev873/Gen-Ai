@@ -77,7 +77,7 @@ Welcome to the **Gen AI Analytics Dashboard Prototype!** 🎉 This project is de
 
 ### 🌎 Live Links
 🔗 **GitHub Repository:** (https://github.com/Sakshamebdev873/Gen-Ai.git)  
-🔗 **Live Demo:** [Deployment URL]  
+🔗 **Live Demo:** https://gen-ai-rosy-one.vercel.app/
 
 ---
 
